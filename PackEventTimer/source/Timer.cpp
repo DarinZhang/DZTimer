@@ -48,7 +48,7 @@ void  CALLBACK TimeEvent(UINT uTimerID, UINT uMsg, DWORD_PTR dwUser, DWORD_PTR d
 		tTime.wHour, tTime.wMinute, tTime.wSecond, tTime.wMilliseconds);
 	//to do
 	//realize your callback
-	// hahah branch tempkdm
+	//
 }
 
 
