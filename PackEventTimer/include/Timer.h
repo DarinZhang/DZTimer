@@ -1,5 +1,5 @@
-#ifndef MY_TIMER_H
-#define MY_TIMER_H
+#ifndef DZ_TIMER_H
+#define DZ_TIMER_H
 
 #include <stdio.h>
 #include <windows.h>
@@ -58,4 +58,4 @@ private:
 	std::vector<CQueueTimer *> m_vecTimer;
 };
 
-#endif //!MY_TIMER_H
+#endif //!DZ_TIMER_H
